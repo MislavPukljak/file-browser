@@ -1,0 +1,15 @@
+C:\Users\X1-Admin\Desktop\Verne\file-browser\FileBrowser.Data\bin\Debug\net8.0\FileBrowser.Data.deps.json
+C:\Users\X1-Admin\Desktop\Verne\file-browser\FileBrowser.Data\bin\Debug\net8.0\FileBrowser.Data.runtimeconfig.json
+C:\Users\X1-Admin\Desktop\Verne\file-browser\FileBrowser.Data\bin\Debug\net8.0\FileBrowser.Data.dll
+C:\Users\X1-Admin\Desktop\Verne\file-browser\FileBrowser.Data\bin\Debug\net8.0\FileBrowser.Data.pdb
+C:\Users\X1-Admin\Desktop\Verne\file-browser\FileBrowser.Data\obj\Debug\net8.0\FileBrowser.Data.csproj.AssemblyReference.cache
+C:\Users\X1-Admin\Desktop\Verne\file-browser\FileBrowser.Data\obj\Debug\net8.0\FileBrowser.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\X1-Admin\Desktop\Verne\file-browser\FileBrowser.Data\obj\Debug\net8.0\FileBrowser.Data.AssemblyInfoInputs.cache
+C:\Users\X1-Admin\Desktop\Verne\file-browser\FileBrowser.Data\obj\Debug\net8.0\FileBrowser.Data.AssemblyInfo.cs
+C:\Users\X1-Admin\Desktop\Verne\file-browser\FileBrowser.Data\obj\Debug\net8.0\FileBrowser.Data.csproj.CoreCompileInputs.cache
+C:\Users\X1-Admin\Desktop\Verne\file-browser\FileBrowser.Data\obj\Debug\net8.0\FileBrowser.Data.sourcelink.json
+C:\Users\X1-Admin\Desktop\Verne\file-browser\FileBrowser.Data\obj\Debug\net8.0\FileBrowser.Data.dll
+C:\Users\X1-Admin\Desktop\Verne\file-browser\FileBrowser.Data\obj\Debug\net8.0\refint\FileBrowser.Data.dll
+C:\Users\X1-Admin\Desktop\Verne\file-browser\FileBrowser.Data\obj\Debug\net8.0\FileBrowser.Data.pdb
+C:\Users\X1-Admin\Desktop\Verne\file-browser\FileBrowser.Data\obj\Debug\net8.0\FileBrowser.Data.genruntimeconfig.cache
+C:\Users\X1-Admin\Desktop\Verne\file-browser\FileBrowser.Data\obj\Debug\net8.0\ref\FileBrowser.Data.dll
