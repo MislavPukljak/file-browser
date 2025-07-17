@@ -1,6 +1,6 @@
 ## Prerequisites
 
-Before you begin, ensure you have the following installed:
+Ensure you have the following installed:
 
 - **.NET 8 SDK:** [Download & Install .NET 8](https://dotnet.microsoft.com/download/dotnet/8.0)
 - **SQL Server:** A running instance of SQL Server Express LocalDB.
@@ -47,8 +47,6 @@ This command will read the connection string from `FileBrowser.Api/appsettings.j
 ## Running the Application
 
 You can run the application directly using the .NET CLI.
-
-### Option 1: Using the .NET CLI
 
 1.  **Build the solution:**
 
