@@ -36,6 +36,12 @@ The database connection string don't need to be configured before running the ap
 
 ## Database Setup
 
+To run SQL Server LocalDb which is used for this project, run following command:
+
+```sh
+sqllocaldb start MSSQLLocalDB
+```
+
 This project uses Entity Framework Core for database migrations. To create and seed the database, run the following command from the **root directory** of the project:
 
 ```sh
